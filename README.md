@@ -1,2 +1,2 @@
-# babylon_test
-babylon test for basic functionality 
+# testConfig_01
+Babylon 3d configurator test
